@@ -4,4 +4,4 @@ Questa è la repository con il file .tex dell'elaborato redatto per la simulazio
 
 Chiunque può prendere la repo e compilare per sé il file, poiché (per ora) vorrei che nessuno che non fosse in grado di scrivere da solo in LaTeX fosse in possesso del file PDF finale.
 
-[@LuckyJack482]
+[@LuckyJack482](https://github.com/LuckyJack482)
